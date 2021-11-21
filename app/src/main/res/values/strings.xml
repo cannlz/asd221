@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">check api app</string>
+    <string name="textView">Show me your API</string>
+    <string name="buttonApi">Get API</string>
+</resources>
